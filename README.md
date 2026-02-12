@@ -10,7 +10,7 @@ The project follows a structured **MVC architecture** and demonstrates productio
 
 ## 🌐 Live API
 
-🚀 Base URL: https://your-backend-link.onrender.com
+🚀 Base URL:  https://swiggy-backend-sapl.onrender.com
 
 ---
 
